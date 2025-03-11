@@ -1,0 +1,237 @@
+[
+    {
+      "name": "Alba",
+      "alpha2": "AB",
+      "numeric": 1
+    },
+    {
+      "name": "Arad",
+      "alpha2": "AR",
+      "numeric": 2
+    },
+    {
+      "name": "Argeș",
+      "alpha2": "AG",
+      "numeric": 3
+    },
+    {
+      "name": "Bacău",
+      "alpha2": "BC",
+      "numeric": 4
+    },
+    {
+      "name": "Bihor",
+      "alpha2": "BH",
+      "numeric": 5
+    },
+    {
+      "name": "Bistrița-Năsăud",
+      "alpha2": "BN",
+      "numeric": 6
+    },
+    {
+      "name": "Botoșani",
+      "alpha2": "BT",
+      "numeric": 7
+    },
+    {
+      "name": "Brașov",
+      "alpha2": "BV",
+      "numeric": 8
+    },
+    {
+      "name": "Brăila",
+      "alpha2": "BR",
+      "numeric": 9
+    },
+    {
+      "name": "Buzău",
+      "alpha2": "BZ",
+      "numeric": 10
+    },
+    {
+      "name": "Caraș-Severin",
+      "alpha2": "CS",
+      "numeric": 11
+    },
+    {
+      "name": "Călărași",
+      "alpha2": "CL",
+      "numeric": 51
+    },
+    {
+      "name": "Cluj",
+      "alpha2": "CJ",
+      "numeric": 12
+    },
+    {
+      "name": "Constanța",
+      "alpha2": "CT",
+      "numeric": 13
+    },
+    {
+      "name": "Covasna",
+      "alpha2": "CV",
+      "numeric": 14
+    },
+    {
+      "name": "Dâmbovița",
+      "alpha2": "DB",
+      "numeric": 15
+    },
+    {
+      "name": "Dolj",
+      "alpha2": "DJ",
+      "numeric": 16
+    },
+    {
+      "name": "Galați",
+      "alpha2": "GL",
+      "numeric": 17
+    },
+    {
+      "name": "Giurgiu",
+      "alpha2": "GR",
+      "numeric": 52
+    },
+    {
+      "name": "Gorj",
+      "alpha2": "GJ",
+      "numeric": 18
+    },
+    {
+      "name": "Harghita",
+      "alpha2": "HR",
+      "numeric": 19
+    },
+    {
+      "name": "Hunedoara",
+      "alpha2": "HD",
+      "numeric": 20
+    },
+    {
+      "name": "Ialomița",
+      "alpha2": "IL",
+      "numeric": 21
+    },
+    {
+      "name": "Iași",
+      "alpha2": "IS",
+      "numeric": 22
+    },
+    {
+      "name": "Ilfov",
+      "alpha2": "IF",
+      "numeric": 23
+    },
+    {
+      "name": "Maramureș",
+      "alpha2": "MM",
+      "numeric": 24
+    },
+    {
+      "name": "Mehedinți",
+      "alpha2": "MH",
+      "numeric": 25
+    },
+    {
+      "name": "Mureș",
+      "alpha2": "MS",
+      "numeric": 26
+    },
+    {
+      "name": "Neamț",
+      "alpha2": "NT",
+      "numeric": 27
+    },
+    {
+      "name": "Olt",
+      "alpha2": "OT",
+      "numeric": 28
+    },
+    {
+      "name": "Prahova",
+      "alpha2": "PH",
+      "numeric": 29
+    },
+    {
+      "name": "Satu Mare",
+      "alpha2": "SM",
+      "numeric": 30
+    },
+    {
+      "name": "Sălaj",
+      "alpha2": "SJ",
+      "numeric": 31
+    },
+    {
+      "name": "Sibiu",
+      "alpha2": "SB",
+      "numeric": 32
+    },
+    {
+      "name": "Suceava",
+      "alpha2": "SV",
+      "numeric": 33
+    },
+    {
+      "name": "Teleorman",
+      "alpha2": "TR",
+      "numeric": 34
+    },
+    {
+      "name": "Timiș",
+      "alpha2": "TM",
+      "numeric": 35
+    },
+    {
+      "name": "Tulcea",
+      "alpha2": "TL",
+      "numeric": 36
+    },
+    {
+      "name": "Vaslui",
+      "alpha2": "VS",
+      "numeric": 37
+    },
+    {
+      "name": "Vâlcea",
+      "alpha2": "VL",
+      "numeric": 38
+    },
+    {
+      "name": "Vrancea",
+      "alpha2": "VN",
+      "numeric": 39
+    },
+    {
+      "name": "București/Sector1",
+      "alpha2": "B1",
+      "numeric": 41
+    },
+    {
+      "name": "București/Sector2",
+      "alpha2": "B2",
+      "numeric": 42
+    },
+    {
+      "name": "București/Sector3",
+      "alpha2": "B3",
+      "numeric": 43
+    },
+    {
+      "name": "București/Sector4",
+      "alpha2": "B4",
+      "numeric": 44
+    },
+    {
+      "name": "București/Sector5",
+      "alpha2": "B5",
+      "numeric": 45
+    },
+    {
+      "name": "București/Sector6",
+      "alpha2": "B6",
+      "numeric": 46
+    }
+  ]

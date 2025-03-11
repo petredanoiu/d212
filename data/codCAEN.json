@@ -1,0 +1,3807 @@
+[
+    {
+        "name": "Cultivarea cerealelor (excluzând orezul), plantelor leguminoase şi a plantelor oleaginoase ",
+        "code": "0111",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea orezului ",
+        "code": "0112",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea legumelor şi a pepenilor, a rădăcinoaselor şi tuberculiferelor ",
+        "code": "0113",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea trestiei de zahăr ",
+        "code": "0114",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea tutunului ",
+        "code": "0115",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea plantelor pentru fibre textile ",
+        "code": "0116",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea altor plante din culturi nepermanente ",
+        "code": "0119",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea strugurilor ",
+        "code": "0121",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea fructelor tropicale şi subtropicale ",
+        "code": "0122",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea fructelor citrice ",
+        "code": "0123",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea fructelor seminţoase şi sâmburoase ",
+        "code": "0124",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea altor pomi fructiferi, a arbuştilor fructiferi, căpşunilor şi a nuciferelor ",
+        "code": "0125",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea fructelor oleaginoase ",
+        "code": "0126",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea plantelor pentru prepararea băuturilor ",
+        "code": "0127",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea condimentelor, plantelor aromatice, medicinale şi a plantelor de uz farmaceutic ",
+        "code": "0128",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea altor plante permanente ",
+        "code": "0129",
+        "year": "2025"
+    },
+    {
+        "name": "Cultivarea plantelor pentru înmulţire ",
+        "code": "0130",
+        "year": "2025"
+    },
+    {
+        "name": "Creşterea bovinelor de lapte ",
+        "code": "0141",
+        "year": "2025"
+    },
+    {
+        "name": "Creşterea altor bovine ",
+        "code": "0142",
+        "year": "2025"
+    },
+    {
+        "name": "Creşterea cailor şi a altor cabaline ",
+        "code": "0143",
+        "year": "2025"
+    },
+    {
+        "name": "Creşterea cămilelor şi a camelidelor ",
+        "code": "0144",
+        "year": "2025"
+    },
+    {
+        "name": "Creşterea ovinelor şi caprinelor ",
+        "code": "0145",
+        "year": "2025"
+    },
+    {
+        "name": "Creşterea porcinelor ",
+        "code": "0146",
+        "year": "2025"
+    },
+    {
+        "name": "Creşterea păsărilor ",
+        "code": "0147",
+        "year": "2025"
+    },
+    {
+        "name": "Creşterea altor animale ",
+        "code": "0148",
+        "year": "2025"
+    },
+    {
+        "name": "Creşterea altor animale",
+        "code": "0149",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi în ferme mixte (cultura vegetală combinată cu creşterea animalelor) ",
+        "code": "0150",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi auxiliare pentru producţia vegetală ",
+        "code": "0161",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi auxiliare pentru creşterea animalelor ",
+        "code": "0162",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi după recoltare şi pregătirea seminţelor ",
+        "code": "0163",
+        "year": "2025"
+    },
+    {
+        "name": "Pregătirea seminţelor în vederea însămânţării",
+        "code": "0164",
+        "year": "2008"
+    },
+    {
+        "name": "Vânătoare, capturarea cu capcane a vânatului şi activităţi de servicii anexe vânătorii ",
+        "code": "0170",
+        "year": "2025"
+    },
+    {
+        "name": "Silvicultură şi alte activităţi forestiere ",
+        "code": "0210",
+        "year": "2025"
+    },
+    {
+        "name": "Exploatarea forestieră ",
+        "code": "0220",
+        "year": "2025"
+    },
+    {
+        "name": "Colectarea produselor forestiere nelemnoase din flora spontană ",
+        "code": "0230",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii anexe silviculturii ",
+        "code": "0240",
+        "year": "2025"
+    },
+    {
+        "name": "Pescuitul maritim ",
+        "code": "0311",
+        "year": "2025"
+    },
+    {
+        "name": "Pescuitul în ape dulci ",
+        "code": "0312",
+        "year": "2025"
+    },
+    {
+        "name": "Acvacultura maritimă ",
+        "code": "0321",
+        "year": "2025"
+    },
+    {
+        "name": "Acvacultura în ape dulci ",
+        "code": "0322",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi anexe pescuitului şi acvaculturii ",
+        "code": "0330",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia cărbunelui superior (PCS=>23865 kJ/kg) ",
+        "code": "0510",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia cărbunelui inferior (PCS<23865 kJ/kg) ",
+        "code": "0520",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia petrolului brut ",
+        "code": "0610",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia gazelor naturale ",
+        "code": "0620",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia minereurilor feroase ",
+        "code": "0710",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia minereurilor de uraniu şi toriu ",
+        "code": "0721",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia altor minereuri metalifere neferoase ",
+        "code": "0729",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia pietrei ornamentale şi a pietrei pentru construcţii, extracţia pietrei calcaroase, ghipsului, cretei şi a ardeziei ",
+        "code": "0811",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia pietrişului şi nisipului; extracţia argilei şi caolinului ",
+        "code": "0812",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia mineralelor pentru industria chimică şi a îngrăşămintelor naturale ",
+        "code": "0891",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia turbei ",
+        "code": "0892",
+        "year": "2025"
+    },
+    {
+        "name": "Extracţia sării ",
+        "code": "0893",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi extractive n.c.a. ",
+        "code": "0899",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii anexe extracţiei petrolului brut şi gazelor naturale ",
+        "code": "0910",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii anexe pentru extracţia mineralelor ",
+        "code": "0990",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea şi conservarea cărnii ",
+        "code": "1011",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea şi conservarea cărnii de pasăre ",
+        "code": "1012",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor din carne (inclusiv din carne de pasăre) ",
+        "code": "1013",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea şi conservarea peştelui, crustaceelor şi moluştelor ",
+        "code": "1020",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea şi conservarea cartofilor ",
+        "code": "1031",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea sucurilor de fructe şi legume ",
+        "code": "1032",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea şi conservarea fructelor şi legumelor n.c.a. ",
+        "code": "1039",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea uleiurilor şi grăsimilor ",
+        "code": "1041",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea margarinei şi a altor produse comestibile similare ",
+        "code": "1042",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor lactate şi a brânzeturilor ",
+        "code": "1051",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea îngheţatei ",
+        "code": "1052",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor de morărit ",
+        "code": "1061",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea amidonului şi a produselor din amidon ",
+        "code": "1062",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea pâinii; fabricarea prăjiturilor şi a produselor proaspete de patiserie ",
+        "code": "1071",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea biscuiţilor şi pişcoturilor; fabricarea prăjiturilor şi a produselor conservate de patiserie ",
+        "code": "1072",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea macaroanelor, tăiţeilor, cuş-cuş-ului şi a altor produse făinoase similar ",
+        "code": "1073",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea zahărului ",
+        "code": "1081",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor din cacao, a ciocolatei şi a produselor zaharoase ",
+        "code": "1082",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea ceaiului şi cafelei ",
+        "code": "1083",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea condimentelor şi ingredientelor ",
+        "code": "1084",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de mâncărururi preparate ",
+        "code": "1085",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea preparatelor alimentare omogenizate şi alimentelor dietetice ",
+        "code": "1086",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse alimentare n.c.a. ",
+        "code": "1089",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea preparatelor pentru hrana animalelor de fermă ",
+        "code": "1091",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea preparatelor pentru hrana animalelor de companie ",
+        "code": "1092",
+        "year": "2025"
+    },
+    {
+        "name": "Distilarea, rafinarea şi mixarea băuturilor alcoolice ",
+        "code": "1101",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea vinurilor din struguri ",
+        "code": "1102",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea cidrului şi a altor vinuri din fructe ",
+        "code": "1103",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor băuturi nedistilate, obţinute prin fermentare ",
+        "code": "1104",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea berii ",
+        "code": "1105",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea malţului ",
+        "code": "1106",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de băuturi răcoritoare nealcoolice; producţia de ape minerale şi alte ape îmbuteliate ",
+        "code": "1107",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor din tutun ",
+        "code": "1200",
+        "year": "2025"
+    },
+    {
+        "name": "Pregătirea fibrelor şi filarea fibrelor textile ",
+        "code": "1310",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de ţesături ",
+        "code": "1320",
+        "year": "2025"
+    },
+    {
+        "name": "Finisarea materialelor textile ",
+        "code": "1330",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de metraje prin tricotare sau croşetare ",
+        "code": "1391",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de articole confecţionate din textile (excluzând îmbrăcămintea şi lenjeria de corp) ",
+        "code": "1392",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de covoare şi mochete ",
+        "code": "1393",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de odgoane, frânghii, sfori şi plase ",
+        "code": "1394",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de textile neţesute şi articole din acestea, cu excepţia confecţiilor de îmbrăcăminte ",
+        "code": "1395",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de articole tehnice şi industriale din textile ",
+        "code": "1396",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor articole textile n.c.a. ",
+        "code": "1399",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor de îmbrăcăminte prin tricotare sau croşetare ",
+        "code": "1410",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor de îmbrăcăminte din piele",
+        "code": "1411",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea articolelor de îmbrăcăminte pentru lucru",
+        "code": "1412",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea altor articole de îmbrăcăminte (exclusiv lenjeria de corp)",
+        "code": "1413",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea de articole de lenjerie de corp",
+        "code": "1414",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea altor articole de îmbrăcăminte şi accesorii n.c.a.",
+        "code": "1419",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea articolelor din blană",
+        "code": "1420",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea articolelor de îmbrăcăminte ",
+        "code": "1421",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de articole de lenjerie de corp ",
+        "code": "1422",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de articole de îmbrăcăminte pentru lucru ",
+        "code": "1423",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor de îmbrăcăminte din piele şi blană ",
+        "code": "1424",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor articole de îmbrăcăminte şi accesorii n.c.a. ",
+        "code": "1429",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea prin tricotare sau croşetare a ciorapilor şi articolelor de galanterie",
+        "code": "1431",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea prin tricotare sau croşetare a altor articole de îmbrăcăminte",
+        "code": "1439",
+        "year": "2008"
+    },
+    {
+        "name": "Tăbăcirea şi finisarea pieilor; prepararea şi vopsirea blănurilor ",
+        "code": "1511",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor de voiaj şi marochinărie şi a articolelor de harnaşament ",
+        "code": "1512",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea încălţămintei ",
+        "code": "1520",
+        "year": "2025"
+    },
+    {
+        "name": "Tăierea şi rindeluirea lemnului",
+        "code": "1610",
+        "year": "2008"
+    },
+    {
+        "name": "Tăierea şi rindeluirea lemnului ",
+        "code": "1611",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea şi finisarea lemnului ",
+        "code": "1612",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de furnire şi a panourilor din lemn ",
+        "code": "1621",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea parchetului asamblat în panouri ",
+        "code": "1622",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor elemente de dulgherie şi tâmplărie, pentru construcţii ",
+        "code": "1623",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea ambalajelor din lemn ",
+        "code": "1624",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de uşi şi ferestre din lemn ",
+        "code": "1625",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de combustibili solizi din biomasă vegetală ",
+        "code": "1626",
+        "year": "2025"
+    },
+    {
+        "name": "Finisarea articolelor din lemn ",
+        "code": "1627",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse din lemn; fabricarea articolelor din plută, paie şi din alte materiale vegetale împletite ",
+        "code": "1628",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse din lemn; fabricarea articolelor din plută, paie şi din alte materiale vegetale împletite",
+        "code": "1629",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea celulozei ",
+        "code": "1711",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea hârtiei şi cartonului ",
+        "code": "1712",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea hârtiei şi cartonului ondulat şi a ambalajelor din hârtie şi carton ",
+        "code": "1721",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor de uz gospodăresc şi sanitar, din hârtie sau carton ",
+        "code": "1722",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor de papetărie ",
+        "code": "1723",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea tapetului ",
+        "code": "1724",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor articole din hârtie şi carton n.c.a. ",
+        "code": "1725",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor articole din hârtie şi carton n.c.a.",
+        "code": "1729",
+        "year": "2008"
+    },
+    {
+        "name": "Tipărirea ziarelor ",
+        "code": "1811",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de tipărire n.c.a. ",
+        "code": "1812",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii pregătitoare pentru pretipărire ",
+        "code": "1813",
+        "year": "2025"
+    },
+    {
+        "name": "Legătorie şi servicii conexe ",
+        "code": "1814",
+        "year": "2025"
+    },
+    {
+        "name": "Reproducerea înregistrărilor ",
+        "code": "1820",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor de cocserie ",
+        "code": "1910",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor obţinute din prelucrarea ţiţeiului ",
+        "code": "1920",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea gazelor industriale ",
+        "code": "2011",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea coloranţilor şi a pigmenţilor ",
+        "code": "2012",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse chimice anorganice, de bază ",
+        "code": "2013",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse chimice organice, de bază ",
+        "code": "2014",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea îngrăşămintelor şi produselor azotoase ",
+        "code": "2015",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea materialelor plastice în forme primare ",
+        "code": "2016",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea cauciucului sintetic în forme primare ",
+        "code": "2017",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea pesticidelor şi a altor produse agrochimice ",
+        "code": "2020",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea vopselelor, lacurilor, cernelii tipografice şi masticurilor ",
+        "code": "2030",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea săpunurilor, detergenţilor şi a produselor de întreţinere ",
+        "code": "2041",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea parfumurilor şi a produselor cosmetice (de toaletă)",
+        "code": "2042",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea biocombustibililor lichizi",
+        "code": "2051",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea cleiurilor",
+        "code": "2052",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea uleiurilor esenţiale",
+        "code": "2053",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea altor produse chimice n.c.a.",
+        "code": "2059",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea fibrelor sintetice şi artificiale",
+        "code": "2060",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor farmaceutice de bază",
+        "code": "2110",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea preparatelor farmaceutice",
+        "code": "2120",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea anvelopelor şi a camerelor de aer; reşaparea şi refacerea anvelopelor",
+        "code": "2211",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse din cauciuc",
+        "code": "2212",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse din cauciuc",
+        "code": "2219",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea plăcilor, foliilor, tuburilor şi profilelor din material plastic",
+        "code": "2221",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor de ambalaj din material plastic",
+        "code": "2222",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de uşi şi ferestre din material plastic",
+        "code": "2223",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor din material plastic pentru construcţii",
+        "code": "2224",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea şi finisarea articolelor din material plastic",
+        "code": "2225",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse din material plastic",
+        "code": "2226",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse din material plastic",
+        "code": "2229",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea sticlei plate",
+        "code": "2311",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea şi fasonarea sticlei plate",
+        "code": "2312",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor din sticlă",
+        "code": "2313",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea fibrelor din sticlă",
+        "code": "2314",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de sticlărie tehnică",
+        "code": "2315",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de sticlărie tehnică",
+        "code": "2319",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea de produse refractare",
+        "code": "2320",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea plăcilor şi dalelor din ceramică",
+        "code": "2331",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea cărămizilor, ţiglelor şi altor produse pentru construcţii, din argilă arsă",
+        "code": "2332",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor ceramice pentru uz gospodăresc şi ornamental",
+        "code": "2341",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de obiecte sanitare din ceramică",
+        "code": "2342",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea izolatorilor şi pieselor izolante din ceramică",
+        "code": "2343",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse tehnice din ceramică",
+        "code": "2344",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse ceramice n.c.a.",
+        "code": "2345",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse ceramice n.c.a.",
+        "code": "2349",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea cimentului",
+        "code": "2351",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea varului şi ipsosului ",
+        "code": "2352",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor din beton pentru construcţii ",
+        "code": "2361",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor din ipsos pentru construcţii ",
+        "code": "2362",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea betonului ",
+        "code": "2363",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea mortarului ",
+        "code": "2364",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor din azbociment ",
+        "code": "2365",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor articole din beton, ciment şi ipsos ",
+        "code": "2366",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor articole din beton, ciment şi ipsos",
+        "code": "2369",
+        "year": "2008"
+    },
+    {
+        "name": "Tăierea, fasonarea şi finisarea pietrei ",
+        "code": "2370",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de produse abrazive ",
+        "code": "2391",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse din minerale nemetalice, n.c.a. ",
+        "code": "2399",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de metale feroase sub forme primare şi de feroaliaje ",
+        "code": "2410",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de tuburi, ţevi, profile tubulare şi accesorii pentru acestea, din oţel ",
+        "code": "2420",
+        "year": "2025"
+    },
+    {
+        "name": "Tragere la rece a barelor ",
+        "code": "2431",
+        "year": "2025"
+    },
+    {
+        "name": "Laminare la rece a benzilor înguste ",
+        "code": "2432",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de profile obţinute la rece ",
+        "code": "2433",
+        "year": "2025"
+    },
+    {
+        "name": "Trefilarea firelor la rece ",
+        "code": "2434",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia metalelor preţioase ",
+        "code": "2441",
+        "year": "2025"
+    },
+    {
+        "name": "Metalurgia aluminiului ",
+        "code": "2442",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia plumbului, zincului şi cositorului ",
+        "code": "2443",
+        "year": "2025"
+    },
+    {
+        "name": "Metalurgia cuprului ",
+        "code": "2444",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia altor metale neferoase ",
+        "code": "2445",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea combustibililor nucleari ",
+        "code": "2446",
+        "year": "2025"
+    },
+    {
+        "name": "Turnarea fontei ",
+        "code": "2451",
+        "year": "2025"
+    },
+    {
+        "name": "Turnarea oţelului ",
+        "code": "2452",
+        "year": "2025"
+    },
+    {
+        "name": "Turnarea metalelor neferoase uşoare ",
+        "code": "2453",
+        "year": "2025"
+    },
+    {
+        "name": "Turnarea altor metale neferoase ",
+        "code": "2454",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de construcţii metalice şi părţi componente ale structurilor metalice ",
+        "code": "2511",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de uşi şi ferestre din metal ",
+        "code": "2512",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de radiatoare şi cazane pentru încălzire central; producţia de generatoare de abur şi boilere ",
+        "code": "2521",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de rezervoare, cisterne şi containere metalice ",
+        "code": "2522",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de rezervoare, cisterne şi containere metalice",
+        "code": "2529",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea armamentului şi muniţiei ",
+        "code": "2530",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor metalice obţinute prin deformare plastică; metalurgia pulberilor ",
+        "code": "2540",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor metalice obţinute prin deformare plastică; metalurgia pulberilor",
+        "code": "2550",
+        "year": "2008"
+    },
+    {
+        "name": "Acoperirea metalelor ",
+        "code": "2551",
+        "year": "2025"
+    },
+    {
+        "name": "Tratamente termice ale metalelor ",
+        "code": "2552",
+        "year": "2025"
+    },
+    {
+        "name": "Operaţiuni de mecanică generală ",
+        "code": "2553",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor de tăiat ",
+        "code": "2561",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor de feronerie ",
+        "code": "2562",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea uneltelor ",
+        "code": "2563",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor de tăiat",
+        "code": "2571",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea articolelor de feronerie",
+        "code": "2572",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea uneltelor",
+        "code": "2573",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea de recipienţi, containere şi alte produse similare din oţel ",
+        "code": "2591",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea ambalajelor metalice uşoare ",
+        "code": "2592",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor din fire metalice; fabricarea de lanţuri şi arcuri ",
+        "code": "2593",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de şuruburi, buloane şi alte articole filetate; fabricarea de nituri şi şaibe ",
+        "code": "2594",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor articole din metal n.c.a. ",
+        "code": "2599",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea componentelor electronice ",
+        "code": "2611",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea subansamblurilor electronice (module) ",
+        "code": "2612",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea calculatoarelor şi a echipamentelor periferice ",
+        "code": "2620",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea echipamentelor de comunicaţii ",
+        "code": "2630",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea produselor electronice de larg consum ",
+        "code": "2640",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de instrumente şi dispozitive pentru măsură, verificare, control, navigaţie ",
+        "code": "2651",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de ceasuri ",
+        "code": "2652",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de echipamente pentru radiologie, electrodiagnostic şi electroterapie ",
+        "code": "2660",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de instrumente optice, suporţi magnetici şi optici; fabricarea de echipamente fotografice ",
+        "code": "2670",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea suporţilor magnetici şi optici destinaţi înregistrărilor",
+        "code": "2680",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea motoarelor, generatoarelor şi transformatoarelor electrice ",
+        "code": "2711",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea aparatelor de distribuţie şi control a electricităţii ",
+        "code": "2712",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de acumulatori şi baterii ",
+        "code": "2720",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de cabluri cu fibră optică ",
+        "code": "2731",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor fire şi cabluri electrice şi electronice ",
+        "code": "2732",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea dispozitivelor de conexiune pentru fire şi cabluri electrice şi electronice ",
+        "code": "2733",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de echipamente electrice de iluminat ",
+        "code": "2740",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de aparate electrocasnice ",
+        "code": "2751",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de echipamente casnice neelectrice ",
+        "code": "2752",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor echipamente electrice ",
+        "code": "2790",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de motoare şi turbine (cu excepţia celor pentru avioane, autovehicule şi motociclete.) ",
+        "code": "2811",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de motoare hidraulice ",
+        "code": "2812",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de pompe şi compresoare ",
+        "code": "2813",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de articole de robinetărie ",
+        "code": "2814",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea lagărelor, angrenajelor, cutiilor de viteză şi a elementelor mecanice de transmisie ",
+        "code": "2815",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea cuptoarelor, furnalelor şi arzătoarelor ",
+        "code": "2821",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea echipamentelor de ridicat şi manipulat ",
+        "code": "2822",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea maşinilor şi echipamentelor de birou (exceptând fabricarea calculatoarelor şi a echipamentelor periferice) ",
+        "code": "2823",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea maşinilor-unelte portabile acţionate electric ",
+        "code": "2824",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea echipamentelor de ventilaţie şi frigorifice, exceptând echipamentele de uz casnic ",
+        "code": "2825",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor maşini şi utilaje de utilizare generală n.c.a. ",
+        "code": "2829",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea masinilor şi utilajelor pentru agricultură şi exploatări forestiere ",
+        "code": "2830",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea utilajelor şi a maşinilor-unelte pentru prelucrarea metalului ",
+        "code": "2841",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor maşini-unelte n.c.a. ",
+        "code": "2842",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor maşini-unelte n.c.a.",
+        "code": "2849",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea utilajelor pentru metalurgie ",
+        "code": "2891",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea utilajelor pentru extracţie şi construcţii ",
+        "code": "2892",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea utilajelor pentru prelucrarea produselor alimentare, băuturilor şi tutunului ",
+        "code": "2893",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea utilajelor pentru industria textilă, a îmbrăcămintei şi a pielăriei ",
+        "code": "2894",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea utilajelor pentru industria hârtiei şi cartonului ",
+        "code": "2895",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea utilajelor pentru prelucrarea maselor plastice şi a cauciucului ",
+        "code": "2896",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea maşinilor şi utilajelor pentru fabricaţia aditivă (care utilizează tehnologia de fabricaţie aditivă) ",
+        "code": "2897",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor maşini şi utilaje specifice n.c.a. ",
+        "code": "2899",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea autovehiculelor de transport rutier ",
+        "code": "2910",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de caroserii pentru autovehicule; fabricarea de remorci şi semiremorci ",
+        "code": "2920",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de echipamente electrice şi electronice pentru autovehicule şi pentru motoare de autovehicule ",
+        "code": "2931",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor piese şi accesorii pentru autovehicule şi pentru motoare de autovehicule ",
+        "code": "2932",
+        "year": "2025"
+    },
+    {
+        "name": "Construcţia de nave civile şi structuri plutitoare ",
+        "code": "3011",
+        "year": "2025"
+    },
+    {
+        "name": "Construcţia de ambarcaţiuni sportive şi de agrement ",
+        "code": "3012",
+        "year": "2025"
+    },
+    {
+        "name": "Construcţia de nave şi vase militare ",
+        "code": "3013",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea materialului rulant ",
+        "code": "3020",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de aeronave şi nave spaţiale",
+        "code": "3030",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea de aeronave şi nave spaţiale, civile ",
+        "code": "3031",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de aeronave şi nave spaţiale, militare ",
+        "code": "3032",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea vehiculelor militare de luptă ",
+        "code": "3040",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de motociclete ",
+        "code": "3091",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de biciclete şi de de vehicule pentru invalizi ",
+        "code": "3092",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor mijloace de transport n.c.a. ",
+        "code": "3099",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de mobilă ",
+        "code": "3100",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de mobilă pentru birouri şi magazine",
+        "code": "3101",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea de mobilă pentru bucătării",
+        "code": "3102",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea de saltele şi somiere",
+        "code": "3103",
+        "year": "2008"
+    },
+    {
+        "name": "Fabricarea de mobilă n.c.a.",
+        "code": "3109",
+        "year": "2008"
+    },
+    {
+        "name": "Baterea monedelor ",
+        "code": "3211",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea bijuteriilor şi articolelor similare din metale şi pietre preţioase ",
+        "code": "3212",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea imitaţiilor de bijuterii şi articole similare ",
+        "code": "3213",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea instrumentelor muzicale ",
+        "code": "3220",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea articolelor pentru sport ",
+        "code": "3230",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea jocurilor şi jucăriilor ",
+        "code": "3240",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea de dispozitive, aparate şi instrumente medicale stomatologice ",
+        "code": "3250",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea măturilor şi periilor ",
+        "code": "3291",
+        "year": "2025"
+    },
+    {
+        "name": "Fabricarea altor produse manufacturiere n.c.a. ",
+        "code": "3299",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea articolelor fabricate din metal ",
+        "code": "3311",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea maşinilor ",
+        "code": "3312",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea echipamentelor electronice şi optice ",
+        "code": "3313",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea echipamentelor electrice ",
+        "code": "3314",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea navelor şi bărcilor, civile ",
+        "code": "3315",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea aeronavelor şi navelor spaţiale, civile ",
+        "code": "3316",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea altor echipamente civile de transport n.c.a. ",
+        "code": "3317",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea vehiculelor militare de luptă, a navelor, vaselor, aeronavelor şi navelor spaţiale, militare ",
+        "code": "3318",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea altor echipamente ",
+        "code": "3319",
+        "year": "2025"
+    },
+    {
+        "name": "Instalarea maşinilor şi echipamentelor industriale ",
+        "code": "3320",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de energie electrică din resurse neregenerabile ",
+        "code": "3511",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de energie electrică din resurse regenerabile ",
+        "code": "3512",
+        "year": "2025"
+    },
+    {
+        "name": "Transportul energiei electrice ",
+        "code": "3513",
+        "year": "2025"
+    },
+    {
+        "name": "Distribuţia energiei electrice ",
+        "code": "3514",
+        "year": "2025"
+    },
+    {
+        "name": "Comercializarea energiei electrice ",
+        "code": "3515",
+        "year": "2025"
+    },
+    {
+        "name": "Depozitarea energiei electrice ",
+        "code": "3516",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia gazelor ",
+        "code": "3521",
+        "year": "2025"
+    },
+    {
+        "name": "Distribuţia combustibililor gazoşi, prin conducte ",
+        "code": "3522",
+        "year": "2025"
+    },
+    {
+        "name": "Comercializarea combustibililor gazoşi, prin conducte ",
+        "code": "3523",
+        "year": "2025"
+    },
+    {
+        "name": "Depozitarea gazelor, ca parte a serviciilor de furnizare ",
+        "code": "3524",
+        "year": "2025"
+    },
+    {
+        "name": "Furnizarea de abur şi aer condiţionat ",
+        "code": "3530",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale agenţilor şi brokerilor din domeniul energiei electrice şi a gazelor naturale ",
+        "code": "3540",
+        "year": "2025"
+    },
+    {
+        "name": "Captarea, tratarea şi distribuţia apei ",
+        "code": "3600",
+        "year": "2025"
+    },
+    {
+        "name": "Colectarea şi epurarea apelor uzate ",
+        "code": "3700",
+        "year": "2025"
+    },
+    {
+        "name": "Colectarea deşeurilor nepericuloase ",
+        "code": "3811",
+        "year": "2025"
+    },
+    {
+        "name": "Colectarea deşeurilor periculoase ",
+        "code": "3812",
+        "year": "2025"
+    },
+    {
+        "name": "Recuperarea materialelor reciclabile ",
+        "code": "3821",
+        "year": "2025"
+    },
+    {
+        "name": "Producţia de energie (electrică sau termică) prin tratarea deşeurilor (inclusiv prin incinerare) ",
+        "code": "3822",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de tartare a deşeurilor ",
+        "code": "3823",
+        "year": "2025"
+    },
+    {
+        "name": "Incinerarea deşeurilor fără producţie de energie ",
+        "code": "3831",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale gropilor de gunoi sau a depozitelor permanente de deşeuri ",
+        "code": "3832",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de eliminare a deşeurilor ",
+        "code": "3833",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi şi servicii de decontaminare ",
+        "code": "3900",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de construcţii a clădirilor rezidenţiale şi nerezidenţiale ",
+        "code": "4100",
+        "year": "2025"
+    },
+    {
+        "name": "Dezvoltare (promovare) imobiliară",
+        "code": "4110",
+        "year": "2008"
+    },
+    {
+        "name": "Lucrări de construcţii a clădirilor rezidenţiale şi nerezidenţiale",
+        "code": "4120",
+        "year": "2008"
+    },
+    {
+        "name": "Lucrări de construcţii a drumurilor şi autostrăzilor ",
+        "code": "4211",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de construcţii a căilor ferate de suprafaţă şi subterane. ",
+        "code": "4212",
+        "year": "2025"
+    },
+    {
+        "name": "Construcţia de poduri şi tuneluri ",
+        "code": "4213",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de construcţii a proiectelor utilitare pentru fluide ",
+        "code": "4221",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de construcţii a proiectelor utilitare pentru electricitate şi telecomunicaţii ",
+        "code": "4222",
+        "year": "2025"
+    },
+    {
+        "name": "Construcţii hidrotehnice ",
+        "code": "4291",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de construcţii a altor proiecte inginereşti n.c.a. ",
+        "code": "4299",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de demolare a construcţiilor ",
+        "code": "4311",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de pregătire a terenului ",
+        "code": "4312",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de foraj şi sondaj pentru construcţii ",
+        "code": "4313",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de instalaţii electrice ",
+        "code": "4321",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de instalaţii sanitare, de încălzire şi de aer condiţionat ",
+        "code": "4322",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de izolaţii ",
+        "code": "4323",
+        "year": "2025"
+    },
+    {
+        "name": "Alte lucrări de instalaţii pentru construcţii ",
+        "code": "4324",
+        "year": "2025"
+    },
+    {
+        "name": "Alte lucrări de instalaţii pentru construcţii",
+        "code": "4329",
+        "year": "2008"
+    },
+    {
+        "name": "Lucrări de ipsoserie ",
+        "code": "4331",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de tâmplărie şi dulgherie ",
+        "code": "4332",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de pardosire şi placare a pereţilor ",
+        "code": "4333",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări de vopsitorie, zugrăveli şi montări de geamuri ",
+        "code": "4334",
+        "year": "2025"
+    },
+    {
+        "name": "Alte lucrări de finisare ",
+        "code": "4335",
+        "year": "2025"
+    },
+    {
+        "name": "Alte lucrări de finisare",
+        "code": "4339",
+        "year": "2008"
+    },
+    {
+        "name": "Lucrări de învelitori, şarpante şi terase la construcţii ",
+        "code": "4341",
+        "year": "2025"
+    },
+    {
+        "name": "Alte lucrări speciale de construcţii pentru clădiri ",
+        "code": "4342",
+        "year": "2025"
+    },
+    {
+        "name": "Lucrări speciale de construcţii pentru proiecte de geniu civil ",
+        "code": "4350",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de intermediere pentru lucrări speciale de construcţii ",
+        "code": "4360",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de zidărie ",
+        "code": "4391",
+        "year": "2025"
+    },
+    {
+        "name": "Alte lucrări speciale de construcţii n.c.a. ",
+        "code": "4399",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu autoturisme şi autovehicule uşoare (sub 3,5 tone)",
+        "code": "4511",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu alte autovehicule",
+        "code": "4519",
+        "year": "2008"
+    },
+    {
+        "name": "Întreţinerea şi repararea autovehiculelor",
+        "code": "4520",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata de piese şi accesorii pentru autovehicule",
+        "code": "4531",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu amănuntul de piese şi accesorii pentru autovehicule",
+        "code": "4532",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu motociclete, piese şi accesorii aferente; întreţinerea şi repararea motocicletelor",
+        "code": "4540",
+        "year": "2008"
+    },
+    {
+        "name": "Intermedieri în comerţul cu materii prime agricole, animale vii, materii prime textile şi cu semifabricate ",
+        "code": "4611",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri în comerţul cu combustibili, minereuri, metale şi produse chimice pentru industrie ",
+        "code": "4612",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri în comerţul cu material lemnos şi materiale de construcţii ",
+        "code": "4613",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri în comerţul cu maşini, echipamente industriale, nave şi avioane ",
+        "code": "4614",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri în comerţul cu mobilă, articole de menaj şi de fierărie ",
+        "code": "4615",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri în comerţul cu textile, confecţii din blană, încălţăminte şi articole din piele ",
+        "code": "4616",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri în comerţul cu produse alimentare, băuturi şi tutun ",
+        "code": "4617",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri în comerţul specializat în vânzarea produselor cu caracter specific, n.c.a. ",
+        "code": "4618",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri în comerţul cu produse diverse ",
+        "code": "4619",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al cerealelor, seminţelor, furajelor şi tutunului neprelucrat ",
+        "code": "4621",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al florilor şi al plantelor ",
+        "code": "4622",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al animalelor vii ",
+        "code": "4623",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al blănurilor, pieilor brute şi al pieilor prelucrate ",
+        "code": "4624",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al fructelor şi legumelor ",
+        "code": "4631",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al cărnii şi produselor din carne, peşte şi produse din peşte, crustacee şi moluşte ",
+        "code": "4632",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al produselor lactate, ouălor, uleiurilor şi grăsimilor comestibile ",
+        "code": "4633",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al băuturilor ",
+        "code": "4634",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al produselor din tutun ",
+        "code": "4635",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al zahărului, ciocolatei şi produselor zaharoase ",
+        "code": "4636",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata cu cafea, ceai, cacao şi condimente ",
+        "code": "4637",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata specializat al altor alimente ",
+        "code": "4638",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata nespecializat de produse alimentare, băuturi şi tutun ",
+        "code": "4639",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al produselor textile ",
+        "code": "4641",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al îmbrăcămintei şi încălţămintei ",
+        "code": "4642",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al aparatelor electrice de uz gospodăresc, al aparatelor de radio şi televizoarelor ",
+        "code": "4643",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al produselor din ceramică, sticlărie, şi produse de întreţinere ",
+        "code": "4644",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al produselor cosmetice şi de parfumerie ",
+        "code": "4645",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al produselor farmaceutice şi medicale ",
+        "code": "4646",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al mobilei (inclusiv de birou şi pentru magazine), covoarelor şi a articolelor de iluminat ",
+        "code": "4647",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al ceasurilor şi bijuteriilor ",
+        "code": "4648",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al altor bunuri de uz gospodăresc ",
+        "code": "4649",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al echipamentului informatic şi de telecomunicaţii ",
+        "code": "4650",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al calculatoarelor, echipamentelor periferice şi software- ului",
+        "code": "4651",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata de componente şi echipamente electronice şi de telecomunicaţii",
+        "code": "4652",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata al maşinilor agricole, echipamentelor şi furniturilor ",
+        "code": "4661",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al maşinilor-unelte ",
+        "code": "4662",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al maşinilor pentru industria minieră şi construcţii ",
+        "code": "4663",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al altor maşini şi echipamente ",
+        "code": "4664",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al mobilei de birou",
+        "code": "4665",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata al altor maşini şi echipamente de birou",
+        "code": "4666",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata al altor maşini şi echipamente",
+        "code": "4669",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata al autovehiculelor ",
+        "code": "4671",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al pieselor şi accesoriilor pentru autovehicule ",
+        "code": "4672",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al motocicletelor; comerţ cu ridicata al pieselor şi accesoriilor pentru motociclete ",
+        "code": "4673",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al echipamentelor şi furniturilor de fierărie pentru instalaţii sanitare şi de încălzire",
+        "code": "4674",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata al produselor chimice",
+        "code": "4675",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata al altor produse intermediare",
+        "code": "4676",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata al deşeurilor şi resturilor",
+        "code": "4677",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu ridicata al combustibililor solizi, lichizi şi gazoşi şi al produselor derivate ",
+        "code": "4681",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al metalelor şi minereurilor metalice ",
+        "code": "4682",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al materialului lemnos şi a materialelor de construcţie şi echipamentelor sanitare ",
+        "code": "4683",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al echipamentelor şi furniturilor de fierărie pentru instalaţii sanitare şi de încălzire ",
+        "code": "4684",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al produselor chimice ",
+        "code": "4685",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al altor produse intermediare ",
+        "code": "4686",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata al deşeurilor şi resturilor ",
+        "code": "4687",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata specializat al altor produse n.c.a. ",
+        "code": "4689",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu ridicata nespecializat ",
+        "code": "4690",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul nespecializat, cu vânzare predominantă de produse alimentare, băuturi şi tutun ",
+        "code": "4711",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul nespecializat, cu vânzare predominantă de produse nealimentare ",
+        "code": "4712",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul în magazine nespecializate, cu vânzare predominantă de produse nealimentare",
+        "code": "4719",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu amănuntul al fructelor şi legumelor proaspete ",
+        "code": "4721",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al cărnii şi al produselor din carne ",
+        "code": "4722",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al peştelui, crustaceelor şi moluştelor ",
+        "code": "4723",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al pâinii, produselor de patiserie şi produselor zaharoase ",
+        "code": "4724",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al băuturilor ",
+        "code": "4725",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al produselor din tutun ",
+        "code": "4726",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al altor produse alimentare ",
+        "code": "4727",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al altor produse alimentare, în magazine specializate",
+        "code": "4729",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu amănuntul al carburanţilor pentru autovehicule ",
+        "code": "4730",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al echipamentului informatic şi de telecomunicaţii ",
+        "code": "4740",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al calculatoarelor, unităţilor periferice şi software-ului in magazine specializate",
+        "code": "4741",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu amănuntul al echipamentului pentru telecomunicaţii în magazine specializate",
+        "code": "4742",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu amănuntul al echipamentului audio/ video în magazine specializate",
+        "code": "4743",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu amănuntul al textilelor ",
+        "code": "4751",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al articolelor de fierărie, al materialelor de construcţii, al articolelor din sticlă şi a celor pentru vopsit ",
+        "code": "4752",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al covoarelor, carpetelor, tapetelor şi a altor acoperitoare de podea ",
+        "code": "4753",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al articolelor şi aparatelor electrocasnice ",
+        "code": "4754",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al mobilei, al articolelor de iluminat şi al altor articole de uz casnic n.c.a. ",
+        "code": "4755",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al mobilei, al articolelor de iluminat şi al articolelor de uz casnic n.c.a., în magazine specializate",
+        "code": "4759",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu amănuntul al cărţilor ",
+        "code": "4761",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al ziarelor şi articolelor de papetărie ",
+        "code": "4762",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al echipamentelor sportive ",
+        "code": "4763",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al jocurilor şi jucăriilor ",
+        "code": "4764",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al jocurilor şi jucăriilor, în magazine specializate",
+        "code": "4765",
+        "year": "2008"
+    },
+    {
+        "name": "Comerţ cu amănuntul de bunuri culturale şi recreative n.c.a. ",
+        "code": "4769",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al îmbrăcămintei ",
+        "code": "4771",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al încălţămintei şi articolelor din piele ",
+        "code": "4772",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al produselor farmaceutice ",
+        "code": "4773",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al articolelor medicale şi ortopedice ",
+        "code": "4774",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al produselor cosmetice şi de parfumerie ",
+        "code": "4775",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al florilor, plantelor şi seminţelor; comerţ cu amănuntul al animalelor de companie şi a hranei pentru acestea ",
+        "code": "4776",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al ceasurilor şi bijuteriilor ",
+        "code": "4777",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al altor bunuri noi ",
+        "code": "4778",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al bunurilor de ocazie ",
+        "code": "4779",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al autovehiculelor ",
+        "code": "4781",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al pieselor şi accesoriilor pentru autovehicule ",
+        "code": "4782",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul al motocicletelor; comerţ cu amănuntul al pieselor şi accesoriilor pentru motociclete ",
+        "code": "4783",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul prin standuri, chioşcuri şi pieţe al altor produse",
+        "code": "4789",
+        "year": "2008"
+    },
+    {
+        "name": "Intermedieri în comerţul cu amănuntul nespecializat ",
+        "code": "4791",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri în comerţul cu amănuntul specializat ",
+        "code": "4792",
+        "year": "2025"
+    },
+    {
+        "name": "Comerţ cu amănuntul altfel efectuat în afara  magazinelor, standurilor, chioşcurilor şi pieţelor",
+        "code": "4799",
+        "year": "2008"
+    },
+    {
+        "name": "Transporturi interurbane de călători pe calea ferată",
+        "code": "4910",
+        "year": "2008"
+    },
+    {
+        "name": "Transport de pasageri pe căi ferate grele/magistrale ",
+        "code": "4911",
+        "year": "2025"
+    },
+    {
+        "name": "Alte transporturi de pasageri pe căi ferate uşoare ",
+        "code": "4912",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi de marfă pe calea ferată ",
+        "code": "4920",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi terestre de pasageri, pe bază de grafic ",
+        "code": "4931",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi terestre de pasageri, ocazionale ",
+        "code": "4932",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi terestre de pasageri cu vehicule cu şofer, pe bază de comandă ",
+        "code": "4933",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi de pasageri cu funiculare, teleferice şi schilifturi ",
+        "code": "4934",
+        "year": "2025"
+    },
+    {
+        "name": "Alte transporturi terestre de călători n.c.a. ",
+        "code": "4939",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi rutiere de mărfuri ",
+        "code": "4941",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de mutare ",
+        "code": "4942",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi prin conducte ",
+        "code": "4950",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi maritime şi costiere de pasageri ",
+        "code": "5010",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi maritime şi costiere de marfă ",
+        "code": "5020",
+        "year": "2025"
+    },
+    {
+        "name": "Transportul de pasageri pe căi navigabile interioare ",
+        "code": "5030",
+        "year": "2025"
+    },
+    {
+        "name": "Transportul de marfă pe căi navigabile interioare ",
+        "code": "5040",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi aeriene de pasageri ",
+        "code": "5110",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi aeriene de marfă ",
+        "code": "5121",
+        "year": "2025"
+    },
+    {
+        "name": "Transporturi spaţiale ",
+        "code": "5122",
+        "year": "2025"
+    },
+    {
+        "name": "Depozitări ",
+        "code": "5210",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii anexe pentru transporturi terestre ",
+        "code": "5221",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii anexe transporturilor pe apă ",
+        "code": "5222",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii anexe transporturilor aeriene ",
+        "code": "5223",
+        "year": "2025"
+    },
+    {
+        "name": "Manipulări ",
+        "code": "5224",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii logistice pentru transporturi ",
+        "code": "5225",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi anexe transporturilor ",
+        "code": "5226",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi anexe transporturilor",
+        "code": "5229",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de intermediere pentru transportul de marfă ",
+        "code": "5231",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de intermediere pentru transportul de pasageri ",
+        "code": "5232",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi poştale desfăşurate sub obligativitatea serviciului universal ",
+        "code": "5310",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi poştale şi de curier ",
+        "code": "5320",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de intermediere pentru activităţi poştale şi de curier ",
+        "code": "5330",
+        "year": "2025"
+    },
+    {
+        "name": "Hoteluri şi alte facilităţi de cazare similare ",
+        "code": "5510",
+        "year": "2025"
+    },
+    {
+        "name": "Facilităţi de cazare pentru vacanţe şi perioade de scurtă durată ",
+        "code": "5520",
+        "year": "2025"
+    },
+    {
+        "name": "Parcuri pentru rulote, campinguri şi tabere ",
+        "code": "5530",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri pentru servicii de cazare ",
+        "code": "5540",
+        "year": "2025"
+    },
+    {
+        "name": "Alte servicii de cazare ",
+        "code": "5590",
+        "year": "2025"
+    },
+    {
+        "name": "Restaurante",
+        "code": "5610",
+        "year": "2008"
+    },
+    {
+        "name": "Restaurante ",
+        "code": "5611",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale unităţilor mobile de alimentaţie ",
+        "code": "5612",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de alimentaţie (catering) pentru evenimente ",
+        "code": "5621",
+        "year": "2025"
+    },
+    {
+        "name": "Alte servicii de alimentaţie n.c.a. ",
+        "code": "5622",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de alimentaţie n.c.a.",
+        "code": "5629",
+        "year": "2008"
+    },
+    {
+        "name": "Baruri şi alte activităţi de servire a băuturilor ",
+        "code": "5630",
+        "year": "2025"
+    },
+    {
+        "name": "Intermedieri pentru servicii de alimentaţie şi de servire a băuturilor ",
+        "code": "5640",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de editare a cărţilor ",
+        "code": "5811",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de editare a ziarelor ",
+        "code": "5812",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de editare a revistelor şi periodicelor ",
+        "code": "5813",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de editare a revistelor şi periodicelor",
+        "code": "5814",
+        "year": "2008"
+    },
+    {
+        "name": "Alte activităţi de editare ",
+        "code": "5819",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de editare a jocurilor de calculator ",
+        "code": "5821",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de editare a altor produse software ",
+        "code": "5829",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de producţie cinematografică, video şi de programe de televiziune ",
+        "code": "5911",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi post-producţie cinematografică, video şi de programe de televiziune ",
+        "code": "5912",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de distribuţie a filmelor cinematografice, video şi a programelor de televiziune ",
+        "code": "5913",
+        "year": "2025"
+    },
+    {
+        "name": "Proiecţia de filme cinematografice ",
+        "code": "5914",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de realizare a înregistrărilor audio şi activităţi de editare muzicală ",
+        "code": "5920",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi radiodifuziune, activităţi de distribuţie de programe audio ",
+        "code": "6010",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de difuzare a programelor de televiziune, activităţi de distribuţie de programe video ",
+        "code": "6020",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale agenţiilor de ştiri ",
+        "code": "6031",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de distribuţie a altor conţinuturi ",
+        "code": "6039",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de telecomunicaţii prin reţele cu cablu, prin reţele fără cablu şi prin satelit ",
+        "code": "6110",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de revânzare a serviciilor de telecomunicaţii şi servicii de intermediere pentru telecomunicaţii ",
+        "code": "6120",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de telecomunicaţii prin satelit",
+        "code": "6130",
+        "year": "2008"
+    },
+    {
+        "name": "Alte activităţi de telecomunicaţii ",
+        "code": "6190",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de realizare a soft-ului la comandă (software orientat client)",
+        "code": "6201",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de consultanţă în tehnologia informaţiei",
+        "code": "6202",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de management (gestiune şi exploatare) a mijloacelor de calcul",
+        "code": "6203",
+        "year": "2008"
+    },
+    {
+        "name": "Alte activităţi de servicii privind tehnologia informaţiei",
+        "code": "6209",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de realizare a soft-ului la comandă (software orientat client) ",
+        "code": "6210",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de consultanţă în tehnologia informaţiei şi de management (gestiune şi exploatare) a mijloacelor de calcul ",
+        "code": "6220",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de servicii privind tehnologia informaţiei ",
+        "code": "6290",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea datelor, administrarea paginilor web şi activităţi conexe ",
+        "code": "6310",
+        "year": "2025"
+    },
+    {
+        "name": "Prelucrarea datelor, administrarea paginilor web şi activităţi conexe",
+        "code": "6311",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale portalurilor web",
+        "code": "6312",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale portalurilor web ",
+        "code": "6391",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de servicii informaţionale n.c. a ",
+        "code": "6392",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de servicii informaţionale n.c.a.",
+        "code": "6399",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale băncii centrale (naţionale) ",
+        "code": "6411",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de intermedieri monetare ",
+        "code": "6419",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale holdingurilor",
+        "code": "6420",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale holding-urilor ",
+        "code": "6421",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale canalelor de finanţare ",
+        "code": "6422",
+        "year": "2025"
+    },
+    {
+        "name": "Fonduri mutuale şi alte entităţi financiare similare",
+        "code": "6430",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale fondurilor de investiţii de pe piaţa monetară şi ale fondurilor de investiţii din afara pieţei monetare ",
+        "code": "6431",
+        "year": "2025"
+    },
+    {
+        "name": "Fonduri mutuale şi alte entităţi financiare similare ",
+        "code": "6432",
+        "year": "2025"
+    },
+    {
+        "name": "Leasing financiar ",
+        "code": "6491",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de creditare ",
+        "code": "6492",
+        "year": "2025"
+    },
+    {
+        "name": "Alte intermedieri financiare n.c.a., exceptând activităţi de asigurări şi fonduri de pensii ",
+        "code": "6499",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de asigurări de viaţă ",
+        "code": "6511",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de asigurări (exceptând asigurările de viaţă) ",
+        "code": "6512",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de reasigurare ",
+        "code": "6520",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale fondurilor de pensii (cu excepţia celor din sistemul public de asigurări sociale) ",
+        "code": "6530",
+        "year": "2025"
+    },
+    {
+        "name": "Administrarea pieţelor financiare ",
+        "code": "6611",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de intermediere a tranzacţiilor financiare ",
+        "code": "6612",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi auxiliare intermedierilor financiare, exceptând activităţi de asigurări şi fonduri de pensii ",
+        "code": "6619",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de evaluare a riscului de asigurare şi a pagubelor ",
+        "code": "6621",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale agenţilor şi broker-ilor de asigurări ",
+        "code": "6622",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi auxiliare de asigurări şi fonduri de pensii ",
+        "code": "6629",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de administrare a fondurilor ",
+        "code": "6630",
+        "year": "2025"
+    },
+    {
+        "name": "Cumpărarea şi vânzarea de bunuri imobiliare proprii",
+        "code": "6810",
+        "year": "2008"
+    },
+    {
+        "name": "Cumpărarea şi vânzarea de bunuri imobiliare proprii ",
+        "code": "6811",
+        "year": "2025"
+    },
+    {
+        "name": "Dezvoltare (promovare) imobiliară ",
+        "code": "6812",
+        "year": "2025"
+    },
+    {
+        "name": "Închirierea şi subînchirierea bunurilor imobiliare proprii sau închiriate ",
+        "code": "6820",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de intermediere a tranzacţiilor imobiliare ",
+        "code": "6831",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi pentru tranzacţii imobiliare pe bază de comision sau contract ",
+        "code": "6832",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi juridice ",
+        "code": "6910",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de contabilitate şi audit financiar; consultanţă în domeniul fiscal ",
+        "code": "6920",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale direcţiilor(centralelor), birourilor administrative centralizate ",
+        "code": "7010",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de consultanţă în afaceri şi management ",
+        "code": "7020",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de consultanţă în domeniul relaţiilor publice şi al comunicării",
+        "code": "7021",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de consultanţă pentru afaceri şi management",
+        "code": "7022",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de arhitectură ",
+        "code": "7111",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de inginerie şi consultanţă tehnică legate de acestea ",
+        "code": "7112",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de testări şi analize tehnice ",
+        "code": "7120",
+        "year": "2025"
+    },
+    {
+        "name": "Cercetare-dezvoltare în ştiinţe naturale şi inginerie ",
+        "code": "7210",
+        "year": "2025"
+    },
+    {
+        "name": "Cercetare- dezvoltare în biotehnologie",
+        "code": "7211",
+        "year": "2008"
+    },
+    {
+        "name": "Cercetare- dezvoltare în alte ştiinţe naturale şi inginerie",
+        "code": "7219",
+        "year": "2008"
+    },
+    {
+        "name": "Cercetare-dezvoltare în ştiinţe sociale şi umaniste ",
+        "code": "7220",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale agenţiilor de publicitate ",
+        "code": "7311",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de reprezentare media ",
+        "code": "7312",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de studiere a pieţei şi de sondare a opiniei publice ",
+        "code": "7320",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi în domeniul relaţiilor publice şi al comunicării ",
+        "code": "7330",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de design specializat",
+        "code": "7410",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de design industrial şi vestimentar ",
+        "code": "7411",
+        "year": "2025"
+    },
+    {
+        "name": "Design grafic şi activităţi de comunicare vizuală ",
+        "code": "7412",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de design de interior ",
+        "code": "7413",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de design specializat ",
+        "code": "7414",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi fotografice ",
+        "code": "7420",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de traducere scrisă şi orală (interpreţi) ",
+        "code": "7430",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi profesionale, ştiinţifice şi tehnice n.c.a.",
+        "code": "7490",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de brokeraj în materie de brevete şi servicii de marketing ",
+        "code": "7491",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi profesionale, stiinţifice şi tehnice n.c.a. ",
+        "code": "7499",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi veterinare ",
+        "code": "7500",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu autoturisme şi autovehicule rutiere uşoare ",
+        "code": "7711",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu autovehicule rutiere grele ",
+        "code": "7712",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu bunuri recreaţionale şi echipament sportiv ",
+        "code": "7721",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu alte bunuri personale şi gospodăreşti n.c.a. ",
+        "code": "7722",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu alte bunuri personale şi gospodăreşti n.c.a.",
+        "code": "7729",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu maşini şi echipamente agricole ",
+        "code": "7731",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu maşini şi echipamente pentru construcţii ",
+        "code": "7732",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu maşini şi echipamente de birou (inclusiv calculatoare) ",
+        "code": "7733",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu echipamente de transport pe apă ",
+        "code": "7734",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închiriere şi leasing cu echipamente de transport aerian ",
+        "code": "7735",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de închirierea şi leasing cu alte maşini, echipamente şi bunuri tangibile n.c.a. ",
+        "code": "7739",
+        "year": "2025"
+    },
+    {
+        "name": "Leasing cu bunuri intangibile (cu excepţia lucrărilor care fac obiectul drepturilor de autor) ",
+        "code": "7740",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de intermediere pentru închirierea şi leasingul autoturismelor, autorulotelor şi remorcilor ",
+        "code": "7751",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de intermediere pentru închirierea şi leasingul altor bunuri corporale şi bunuri intangibile (exceptând financiare) ",
+        "code": "7752",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale agenţiilor de plasare a forţei de muncă ",
+        "code": "7810",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale agenţiilor de plasare temporară a forţei de muncă şi furnizarea altor resurse umane ",
+        "code": "7820",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de furnizare şi management a forţei de muncă",
+        "code": "7830",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale agenţiilor turistice ",
+        "code": "7911",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale tur-operatorilor ",
+        "code": "7912",
+        "year": "2025"
+    },
+    {
+        "name": "Alte servicii de rezervare şi asistenţă turistică ",
+        "code": "7990",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de investigaţii şi servicii private de protecţie ",
+        "code": "8001",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de protecţie n.c.a. ",
+        "code": "8009",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de protecţie şi gardă",
+        "code": "8010",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de servicii privind sistemele de securizare",
+        "code": "8020",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de investigaţii",
+        "code": "8030",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de servicii suport combinate ",
+        "code": "8110",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi generale de curăţenie a clădirilor ",
+        "code": "8121",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi specializate de curăţenie ",
+        "code": "8122",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de curăţenie ",
+        "code": "8123",
+        "year": "2025"
+    },
+    {
+        "name": "ALTE ACTIVITĂŢI DE CURĂŢENIE",
+        "code": "8129",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de înteţinere peisagistică ",
+        "code": "8130",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de secretariat şi servicii suport ",
+        "code": "8210",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi combinate de secretariat",
+        "code": "8211",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de fotocopiere, de pregătire a documentelor şi alte activităţi specializate de secretariat",
+        "code": "8219",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale centrelor de intermediere telefonică (call center) ",
+        "code": "8220",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de organizare a expoziţiilor, târgurilor şi congreselor ",
+        "code": "8230",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de intermediere pentru servicii suport pentru întreprinderi n.c.a. ",
+        "code": "8240",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale agenţiilor de colectare şi a birourilor (oficiilor) de raportare a creditului ",
+        "code": "8291",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de ambalare ",
+        "code": "8292",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de servicii suport pentru întreprinderi n.c.a. ",
+        "code": "8299",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de administraţie publică generală ",
+        "code": "8411",
+        "year": "2025"
+    },
+    {
+        "name": "Reglementarea activităţilor organismelor care prestează servicii în domeniul îngrijirii sănătăţii, învăţământului, culturii şi al altor activităţi sociale, exceptând protecţia socială ",
+        "code": "8412",
+        "year": "2025"
+    },
+    {
+        "name": "Reglementarea şi eficientizarea activităţilor economice ",
+        "code": "8413",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de afaceri externe ",
+        "code": "8421",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de apărare naţională ",
+        "code": "8422",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de justiţie ",
+        "code": "8423",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de ordine publică şi de protecţie civilă ",
+        "code": "8424",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de luptă împotriva incendiilor şi de prevenire a acestora ",
+        "code": "8425",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de protecţie socială obligatorie ",
+        "code": "8430",
+        "year": "2025"
+    },
+    {
+        "name": "Învăţământ preşcolar ",
+        "code": "8510",
+        "year": "2025"
+    },
+    {
+        "name": "Învăţământ primar ",
+        "code": "8520",
+        "year": "2025"
+    },
+    {
+        "name": "Învăţământ secundar general ",
+        "code": "8531",
+        "year": "2025"
+    },
+    {
+        "name": "Învăţământ secundar, tehnic sau profesional ",
+        "code": "8532",
+        "year": "2025"
+    },
+    {
+        "name": "Învăţământ post-secundar, non-universitar ",
+        "code": "8533",
+        "year": "2025"
+    },
+    {
+        "name": "Învăţământ superior universitar ",
+        "code": "8540",
+        "year": "2025"
+    },
+    {
+        "name": "Învăţământ superior non- universitar",
+        "code": "8541",
+        "year": "2008"
+    },
+    {
+        "name": "Învăţământ superior universitar",
+        "code": "8542",
+        "year": "2008"
+    },
+    {
+        "name": "Învăţământ în domeniul sportiv şi recreaţional ",
+        "code": "8551",
+        "year": "2025"
+    },
+    {
+        "name": "Învăţământ în domeniul cultural (muzică, teatru, dans, arte plastice, etc.) ",
+        "code": "8552",
+        "year": "2025"
+    },
+    {
+        "name": "Şcoli de conducere (pilotaj) ",
+        "code": "8553",
+        "year": "2025"
+    },
+    {
+        "name": "Alte forme de învăţământ n.c.a. ",
+        "code": "8559",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii suport pentru învăţământ",
+        "code": "8560",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de intermediere pentru cursuri şi tutori (îndrumători, profesori) ",
+        "code": "8561",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii suport pentru învăţământ ",
+        "code": "8569",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de asistenţă spitalicească ",
+        "code": "8610",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de asistenţă medicală generală ",
+        "code": "8621",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de asistenţă medicală specializată ",
+        "code": "8622",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de asistenţă stomatologică ",
+        "code": "8623",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi referitoare la sănătatea umană",
+        "code": "8690",
+        "year": "2008"
+    },
+    {
+        "name": "Servicii de diagnostic imagistic şi activităţi ale laboratoarelor medicale ",
+        "code": "8691",
+        "year": "2025"
+    },
+    {
+        "name": "Transportul pacienţilor cu ambulanţa ",
+        "code": "8692",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale psihologilor şi psihoterapeuţilor, cu excepţia medicilor ",
+        "code": "8693",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale infirmierelor şi moaşelor ",
+        "code": "8694",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de fizioterapie ",
+        "code": "8695",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de medicină tradiţională, complementară şi alternativă ",
+        "code": "8696",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de intermediere pentru servicii medicale, stomatologice şi pentru alte servicii referitoare la sănătatea umană ",
+        "code": "8697",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi referitoare la sănătatea umană n.c.a. ",
+        "code": "8699",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale centrelor de îngrijire medicală ",
+        "code": "8710",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale centrelor de recuperare pshică şi de dezintoxicare, exclusiv spitale ",
+        "code": "8720",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale căminelor de bătrâni şi ale căminelor pentru persoane cu dizabilităţi aflate în incapacitate de a se îngriji singure ",
+        "code": "8730",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de asistenţă socială, cu cazare n.c.a.",
+        "code": "8790",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de intermediere pentru servicii de îngrijire la domiciliu ",
+        "code": "8791",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de asistenţă socială, cu cazare n.c.a. ",
+        "code": "8799",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de asistenţă socială, fără cazare, pentru bătrâni şi pentru persoane cu dizabilităţi aflate în incapacitate de a se îngriji singure ",
+        "code": "8810",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de îngrijire zilnică pentru copii ",
+        "code": "8891",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de asistenţă socială, fără cazare, n.c.a. ",
+        "code": "8899",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de interpretare artistică (spectacole)",
+        "code": "9001",
+        "year": "2008"
+    },
+    {
+        "name": "ACTIVITĂŢI SUPORT PENTRU INTERPRETAREA  ARTISTICĂ (SPECTACOLE)",
+        "code": "9002",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de creaţie artistică",
+        "code": "9003",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de gestionare a sălilor de spectacole",
+        "code": "9004",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de creaţie literară şi compoziţie muzicală ",
+        "code": "9011",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de creaţie în domeniul artelor vizuale ",
+        "code": "9012",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi de creaţie artistică ",
+        "code": "9013",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de interpretare artistică (spectacole) ",
+        "code": "9020",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de gestionare a sălilor şi amplasamentelor de spectacole ",
+        "code": "9031",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi suport pentru creaţie şi interpretare artistică ",
+        "code": "9039",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale bibliotecilor şi arhivelor",
+        "code": "9101",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale muzeelor",
+        "code": "9102",
+        "year": "2008"
+    },
+    {
+        "name": "Gestionarea monumentelor, clădirilor istorice şi a altor obiective de interes turistic",
+        "code": "9103",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale grădinilor zoologice, botanice şi ale rezervaţiilor naturale",
+        "code": "9104",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi ale bibliotecilor ",
+        "code": "9111",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale arhivelor ",
+        "code": "9112",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale muzeelor şi colecţiilor ",
+        "code": "9121",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale siturilor şi monumentelor istorice ",
+        "code": "9122",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de conservare, restaurare şi alte activităţi suport pentru patrimoniul cultural ",
+        "code": "9130",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale grădinilor botanice şi zoologice ",
+        "code": "9141",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale rezervaţiilor naturale ",
+        "code": "9142",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de jocuri de noroc şi pariuri ",
+        "code": "9200",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale bazelor sportive ",
+        "code": "9311",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale cluburilor sportive ",
+        "code": "9312",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale centrelor de fitness ",
+        "code": "9313",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi sportive n.c.a ",
+        "code": "9319",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale parcurilor tematice şi de distracţii ",
+        "code": "9321",
+        "year": "2025"
+    },
+    {
+        "name": "Alte activităţi recreative şi distractive n.c.a. ",
+        "code": "9329",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale organizaţiilor economice şi patronale ",
+        "code": "9411",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale organizaţiilor profesionale ",
+        "code": "9412",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale sindicatelor salariaţilor ",
+        "code": "9420",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale organizaţiilor religioase ",
+        "code": "9491",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale organizaţiilor politice ",
+        "code": "9492",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale altor organizaţii n.c.a. ",
+        "code": "9499",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea calculatoarelor şi a echipamentelor de comunicaţii ",
+        "code": "9510",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea calculatoarelor şi a echipamentelor periferice",
+        "code": "9511",
+        "year": "2008"
+    },
+    {
+        "name": "Repararea echipamentelor de comunicaţii",
+        "code": "9512",
+        "year": "2008"
+    },
+    {
+        "name": "Repararea şi întreţinerea aparatelor electronice de uz casnic ",
+        "code": "9521",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea dispozitivelor de uz gospodăresc şi a echipamentelor pentru casă şi grădină ",
+        "code": "9522",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea încălţămintei şi a articolelor din piele ",
+        "code": "9523",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea mobilei şi a furniturilor casnice ",
+        "code": "9524",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea ceasurilor şi a bijuteriilor ",
+        "code": "9525",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea articolelor de uz personal şi gospodăresc n.c.a. ",
+        "code": "9529",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea autovehiculelor ",
+        "code": "9531",
+        "year": "2025"
+    },
+    {
+        "name": "Repararea şi întreţinerea motocicletelor ",
+        "code": "9532",
+        "year": "2025"
+    },
+    {
+        "name": "Servicii de intermediere pentru repararea şi întreţinerea calculatoarelor, a articolelor personale şi de uz gospodăresc, a autovehiculelor şi motocicletelor ",
+        "code": "9540",
+        "year": "2025"
+    },
+    {
+        "name": "Spălarea şi curăţarea (uscată) articolelor textile şi a produselor din blană",
+        "code": "9601",
+        "year": "2008"
+    },
+    {
+        "name": "Coafură şi alte activităţi de înfrumuseţare",
+        "code": "9602",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de pompe funebre şi similare",
+        "code": "9603",
+        "year": "2008"
+    },
+    {
+        "name": "Activităţi de întreţinere corporală",
+        "code": "9604",
+        "year": "2008"
+    },
+    {
+        "name": "Alte activităţi de servicii n.c.a.",
+        "code": "9609",
+        "year": "2008"
+    },
+    {
+        "name": "Spălarea şi curăţarea articolelor textile şi a produselor din blană ",
+        "code": "9610",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de coafură şi frizerie ",
+        "code": "9621",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de tratament şi înfrumuseţare ",
+        "code": "9622",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale centrelor spa, saunelor şi bailor de abur ",
+        "code": "9623",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de pompe funebre şi similare ",
+        "code": "9630",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de intermediere pentru servicii personale ",
+        "code": "9640",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi de servicii personale la domiciliu ",
+        "code": "9691",
+        "year": "2025"
+    },
+    {
+        "name": "Alte servicii personale n.c.a. ",
+        "code": "9699",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale gospodăriilor private în calitate de angajator de personal casnic ",
+        "code": "9700",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale gospodăriilor private de producere de bunuri destinate consumului propriu ",
+        "code": "9810",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale gospodăriilor private de producere de servicii pentru scopuri proprii ",
+        "code": "9820",
+        "year": "2025"
+    },
+    {
+        "name": "Activităţi ale organizaţiilor şi organismelor extrateritoriale ",
+        "code": "9900",
+        "year": "2025"
+    }
+]
